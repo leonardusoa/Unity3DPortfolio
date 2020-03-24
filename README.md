@@ -1,7 +1,7 @@
-# Unity3D | C# | Portfolio
+# Unity | C# | Portfolio
 
 ### Run From Zombies
-###### Unity3D | C# | 3D Endles Run Game
+###### Unity | C# | 3D Endles Run Game
 <p align="center">
 <img src="/gif/runfromzombies.gif" />
 </p>
@@ -12,7 +12,7 @@
 </ul>
 
 ### Jumping Thunder
-###### Unity3D | C# | 2D Endless Run Game
+###### Unity | C# | 2D Endless Run Game
 <p align="center">
 <img src="/gif/jumpthun1.JPG" height=360px />
 <img src="/gif/jumpthun.gif" height=360px />
