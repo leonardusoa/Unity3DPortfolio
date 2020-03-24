@@ -13,4 +13,11 @@
 
 ### Jumping Thunder
 ###### Unity3D | C# | 2D Endless Run Game
-###### Under Development
+<p align="center">
+<img src="/gif/jumpthun.gif"/>
+</p>
+<ul>
+  <li><strong><a href="https://leonardusoa.github.io/jumpinbird/index.html" target="_blank" rel="noopener noreferrer">WEB</a></strong></li>
+  <!--- <li><strong><a href="https://drive.google.com/open?id=1uvBmY5E_QmEVHbXUQTm9RDA6CNmryacl" target="_blank" rel="noopener noreferrer">WINDOWS</a></strong> (37MB)</li> -->
+  <li><strong><a href="https://github.com/leonardusoa/jumpinbird" target="_blank" rel="noopener noreferrer">DETAILS</a></strong></li>
+</ul>
